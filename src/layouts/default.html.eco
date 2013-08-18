@@ -41,7 +41,7 @@
 	<div class="navbar navbar-fixed-top">
 		<div class="navbar-inner">
 			<div class="container">
-				<a class="brand" href="/">Welcome</a>
+				<a class="brand" href="/">Главная</a>
 				<ul class="nav">
 					<% for document in @getCollection('pages').toJSON(): %>
 						<li typeof="sioc:Page" about="<%= document.url %>" class="<%= 'active'  if @document.url is document.url %>">
@@ -57,10 +57,7 @@
 			<%- @content %>
 		</section>
 		<footer>
-			<p class="pull-left">&copy; Company <%- (new Date()).getFullYear() %></p>
-			<p class="pull-right">
-				This website was last updated at <%= @site.date.toISOString() %>
-			</p>
+			<p class="pull-left">&copy; firfi.com <%- (new Date()).getFullYear() %></p>
 		</footer>
 	</div><!-- /container -->
 
