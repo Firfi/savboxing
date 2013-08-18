@@ -110,6 +110,7 @@ docpadConfig = {
           w: 300
           h: 300
           q: 90
+      imageMagick: true
     downloader:
       downloads: [
         {
