@@ -2,18 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eeb3fd06-0f55-484a-97d2-7efefc52b566" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/files/vendor/font-awesome/font/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/files/vendor/font-awesome/font/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/files/vendor/font-awesome/font/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/files/vendor/font-awesome/font/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/files/vendor/font-awesome/scss/_bootstrap.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/files/vendor/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/files/vendor/font-awesome/scss/_extras.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/files/vendor/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/files/vendor/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/files/vendor/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/files/vendor/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/files/vendor/font-awesome/less/bootstrap.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/files/vendor/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/files/vendor/font-awesome/less/extras.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/files/vendor/font-awesome/css/font-awesome-ie7.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/files/vendor/font-awesome/less/font-awesome-ie7.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/files/vendor/font-awesome/css/font-awesome-ie7.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/files/vendor/font-awesome/scss/font-awesome-ie7.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/files/vendor/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/files/vendor/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/files/vendor/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/files/vendor/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/files/vendor/font-awesome/font/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/files/vendor/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/files/vendor/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/files/vendor/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/files/vendor/font-awesome/less/variables.less" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/documents/pages/coach.html.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/layouts/default.html.eco" afterPath="$PROJECT_DIR$/src/layouts/default.html.eco" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docpad.coffee" afterPath="$PROJECT_DIR$/docpad.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/documents/pages/gyms.html.jade" afterPath="$PROJECT_DIR$/src/documents/pages/gyms.html.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/documents/index.html" afterPath="$PROJECT_DIR$/src/documents/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/documents/styles/style.css.styl" afterPath="$PROJECT_DIR$/src/documents/styles/style.css.styl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="boxclub2.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="eeb3fd06-0f55-484a-97d2-7efefc52b566" time="1376857595039" ignored="false" />
-    <file path="/index.html" changelist="eeb3fd06-0f55-484a-97d2-7efefc52b566" time="1376866008330" ignored="false" />
+    <file path="/Dummy.txt" changelist="eeb3fd06-0f55-484a-97d2-7efefc52b566" time="1376959928357" ignored="false" />
+    <file path="/index.html" changelist="eeb3fd06-0f55-484a-97d2-7efefc52b566" time="1376961767012" ignored="false" />
     <file path="/gyms.html.md" changelist="eeb3fd06-0f55-484a-97d2-7efefc52b566" time="1376856992833" ignored="false" />
     <file path="/prices.html.md" changelist="eeb3fd06-0f55-484a-97d2-7efefc52b566" time="1376853113811" ignored="false" />
-    <file path="/coach.html.md" changelist="eeb3fd06-0f55-484a-97d2-7efefc52b566" time="1376853219786" ignored="false" />
-    <file path="/default.html.eco" changelist="eeb3fd06-0f55-484a-97d2-7efefc52b566" time="1376859075783" ignored="false" />
-    <file path="/gyms.html.jade" changelist="eeb3fd06-0f55-484a-97d2-7efefc52b566" time="1376867373130" ignored="false" />
-    <file path="/style.css.styl" changelist="eeb3fd06-0f55-484a-97d2-7efefc52b566" time="1376867286021" ignored="false" />
+    <file path="/coach.html.md" changelist="eeb3fd06-0f55-484a-97d2-7efefc52b566" time="1376931233774" ignored="false" />
+    <file path="/default.html.eco" changelist="eeb3fd06-0f55-484a-97d2-7efefc52b566" time="1376961025788" ignored="false" />
+    <file path="/gyms.html.jade" changelist="eeb3fd06-0f55-484a-97d2-7efefc52b566" time="1376962172466" ignored="false" />
+    <file path="/style.css.styl" changelist="eeb3fd06-0f55-484a-97d2-7efefc52b566" time="1376961495816" ignored="false" />
     <file path="/script.js.coffee" changelist="eeb3fd06-0f55-484a-97d2-7efefc52b566" time="1376865791604" ignored="false" />
     <file path="/docpad.coffee" changelist="eeb3fd06-0f55-484a-97d2-7efefc52b566" time="1376869170278" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -79,16 +112,16 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/documents/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="69" selection-start="509" selection-end="521" vertical-scroll-proportion="-10.625">
+            <state line="25" column="92" selection-start="793" selection-end="793" vertical-scroll-proportion="-15.625">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gyms.html.jade" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="gyms.html.jade" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/documents/pages/gyms.html.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="0" selection-start="2220" selection-end="2220" vertical-scroll-proportion="-9.88">
+            <state line="15" column="54" selection-start="392" selection-end="392" vertical-scroll-proportion="0.35582823">
               <folding />
             </state>
           </provider>
@@ -97,7 +130,7 @@
       <file leaf-file-name="default.html.eco" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/layouts/default.html.eco">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="13" selection-start="46" selection-end="50" vertical-scroll-proportion="3.4615386">
+            <state line="51" column="92" selection-start="2111" selection-end="2111" vertical-scroll-proportion="-7.7777777">
               <folding />
             </state>
           </provider>
@@ -106,10 +139,19 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="font-awesome.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/files/vendor/font-awesome/css/font-awesome.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="style.css.styl" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/documents/styles/style.css.styl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="20" selection-start="265" selection-end="265" vertical-scroll-proportion="0.0">
+            <state line="25" column="10" selection-start="302" selection-end="302" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -127,16 +169,16 @@
       <file leaf-file-name="script.js.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/documents/scripts/script.js.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="46" selection-start="931" selection-end="931" vertical-scroll-proportion="-6.36">
+            <state line="35" column="46" selection-start="931" selection-end="931" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="docpad.coffee" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="docpad.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docpad.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="112" column="6" selection-start="3296" selection-end="3296" vertical-scroll-proportion="0.6696629">
+            <state line="48" column="54" selection-start="1531" selection-end="1531" vertical-scroll-proportion="-7.96">
               <folding />
             </state>
           </provider>
@@ -145,7 +187,7 @@
       <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="7" selection-start="1530" selection-end="1534" vertical-scroll-proportion="-5.9183674">
+            <state line="49" column="7" selection-start="1530" selection-end="1534" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -170,14 +212,14 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/src/documents/pages/prices.html.md" />
-        <option value="$PROJECT_DIR$/src/documents/pages/coach.html.md" />
         <option value="$PROJECT_DIR$/src/documents/pages/gyms.html.md" />
-        <option value="$PROJECT_DIR$/src/layouts/default.html.eco" />
         <option value="$PROJECT_DIR$/src/documents/scripts/script.js.coffee" />
-        <option value="$PROJECT_DIR$/src/documents/index.html" />
-        <option value="$PROJECT_DIR$/src/documents/styles/style.css.styl" />
-        <option value="$PROJECT_DIR$/src/documents/pages/gyms.html.jade" />
+        <option value="$PROJECT_DIR$/src/documents/pages/coach.html.md" />
         <option value="$PROJECT_DIR$/docpad.coffee" />
+        <option value="$PROJECT_DIR$/src/documents/styles/style.css.styl" />
+        <option value="$PROJECT_DIR$/src/layouts/default.html.eco" />
+        <option value="$PROJECT_DIR$/src/documents/index.html" />
+        <option value="$PROJECT_DIR$/src/documents/pages/gyms.html.jade" />
       </list>
     </option>
   </component>
@@ -214,6 +256,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -312,7 +355,37 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="fancybox" />
+              <option name="myItemId" value="font-awesome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boxclub2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boxclub2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="font-awesome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -446,7 +519,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -474,9 +546,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/files/vendor" />
       <recent name="$PROJECT_DIR$/src/files/images" />
       <recent name="$PROJECT_DIR$/src/files/vendor/fancybox" />
-      <recent name="$PROJECT_DIR$/src/files/vendor" />
     </key>
   </component>
   <component name="RunManager">
@@ -675,11 +747,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/documents/404.html.eco">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/layouts/post.html.eco">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -690,16 +757,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/layouts/page.html.eco">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/files/robots.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/files/icons/apple-touch-icon-57-precomposed.png">
@@ -719,42 +777,54 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/files/vendor/fancybox/jquery.fancybox.pack.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="7" selection-start="1530" selection-end="1534" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docpad.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="54" selection-start="1531" selection-end="1531" vertical-scroll-proportion="-7.96">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/files/robots.txt">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/documents/pages/coach.html.md">
+    <entry file="file://$PROJECT_DIR$/src/files/vendor/font-awesome/css/font-awesome.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="17" selection-start="89" selection-end="89" vertical-scroll-proportion="0.20916335">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/documents/scripts/script.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="46" selection-start="931" selection-end="931" vertical-scroll-proportion="-6.36">
+        <state line="35" column="46" selection-start="931" selection-end="931" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/documents/styles/style.css.styl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="20" selection-start="265" selection-end="265" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/documents/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="69" selection-start="509" selection-end="521" vertical-scroll-proportion="-10.625">
+        <state line="25" column="10" selection-start="302" selection-end="302" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/layouts/default.html.eco">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="13" selection-start="46" selection-end="50" vertical-scroll-proportion="3.4615386">
+        <state line="51" column="92" selection-start="2111" selection-end="2111" vertical-scroll-proportion="-7.7777777">
           <folding />
         </state>
       </provider>
@@ -762,23 +832,16 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/documents/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="92" selection-start="793" selection-end="793" vertical-scroll-proportion="-15.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/documents/pages/gyms.html.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="0" selection-start="2220" selection-end="2220" vertical-scroll-proportion="-9.88">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="7" selection-start="1530" selection-end="1534" vertical-scroll-proportion="-5.9183674">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docpad.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="112" column="6" selection-start="3296" selection-end="3296" vertical-scroll-proportion="0.6696629">
+        <state line="15" column="54" selection-start="392" selection-end="392" vertical-scroll-proportion="0.35582823">
           <folding />
         </state>
       </provider>

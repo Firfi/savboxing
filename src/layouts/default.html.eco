@@ -49,6 +49,7 @@
 						</li>
 					<% end %>
 				</ul>
+				<div class="phone brand"><i class="icon-phone-sign icon-large"></i> 8 (916) 587-13-58</div>
 			</div>
 		</div>
 	</div>

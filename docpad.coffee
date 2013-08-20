@@ -46,6 +46,7 @@ docpadConfig = {
         "/styles/twitter-bootstrap.css"
         "/styles/style.css"
         "/vendor/fancybox/jquery.fancybox.css"
+        "/vendor/font-awesome/css/font-awesome.min.css"
       ]
 
       # Scripts
