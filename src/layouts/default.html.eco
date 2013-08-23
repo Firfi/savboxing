@@ -58,7 +58,7 @@
 			<%- @content %>
 		</section>
 		<footer>
-			<p class="pull-left">&copy; firfi.com <%- (new Date()).getFullYear() %></p>
+			<p class="pull-right">&copy; firfi.com <%- (new Date()).getFullYear() %></p>
 		</footer>
 	</div><!-- /container -->
 
