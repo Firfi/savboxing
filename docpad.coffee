@@ -16,6 +16,7 @@ docpadConfig = {
 
       # Here are some old site urls that you would like to redirect from
       oldUrls: [
+        'http://www.savboxing.ru'
       ]
 
       # The default title of our website
