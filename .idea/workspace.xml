@@ -11,7 +11,7 @@
     <file path="/gyms.html.md" changelist="eeb3fd06-0f55-484a-97d2-7efefc52b566" time="1376856992833" ignored="false" />
     <file path="/prices.html.md" changelist="eeb3fd06-0f55-484a-97d2-7efefc52b566" time="1376853113811" ignored="false" />
     <file path="/coach.html.md" changelist="eeb3fd06-0f55-484a-97d2-7efefc52b566" time="1376931233774" ignored="false" />
-    <file path="/default.html.eco" changelist="eeb3fd06-0f55-484a-97d2-7efefc52b566" time="1377268855658" ignored="false" />
+    <file path="/default.html.eco" changelist="eeb3fd06-0f55-484a-97d2-7efefc52b566" time="1377269162923" ignored="false" />
     <file path="/gyms.html.jade" changelist="eeb3fd06-0f55-484a-97d2-7efefc52b566" time="1376962172466" ignored="false" />
     <file path="/style.css.styl" changelist="eeb3fd06-0f55-484a-97d2-7efefc52b566" time="1376961495816" ignored="false" />
     <file path="/script.js.coffee" changelist="eeb3fd06-0f55-484a-97d2-7efefc52b566" time="1376865791604" ignored="false" />
@@ -143,7 +143,7 @@
       <file leaf-file-name="default.html.eco" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/layouts/default.html.eco">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="48" selection-start="1523" selection-end="1523" vertical-scroll-proportion="0.75581396">
+            <state line="33" column="112" selection-start="1603" selection-end="1603" vertical-scroll-proportion="0.75581396">
               <folding />
             </state>
           </provider>
@@ -651,7 +651,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="48" selection-start="1523" selection-end="1523" vertical-scroll-proportion="0.75581396">
+        <state line="33" column="112" selection-start="1603" selection-end="1603" vertical-scroll-proportion="0.75581396">
           <folding />
         </state>
       </provider>
