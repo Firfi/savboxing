@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eeb3fd06-0f55-484a-97d2-7efefc52b566" name="Default" comment="" />
+    <list default="true" id="eeb3fd06-0f55-484a-97d2-7efefc52b566" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docpad.coffee" afterPath="$PROJECT_DIR$/docpad.coffee" />
+    </list>
     <ignored path="boxclub2.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="eeb3fd06-0f55-484a-97d2-7efefc52b566" time="1377250440174" ignored="false" />
@@ -129,10 +131,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="docpad.coffee" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="docpad.coffee" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docpad.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="12" selection-start="1229" selection-end="1235" vertical-scroll-proportion="-15.76">
+            <state line="60" column="39" selection-start="1865" selection-end="1865" vertical-scroll-proportion="0.33333334">
               <folding />
             </state>
           </provider>
@@ -161,7 +163,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.html.eco" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="default.html.eco" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/layouts/default.html.eco">
           <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
             <state />
@@ -190,11 +192,11 @@
         <option value="$PROJECT_DIR$/src/documents/pages/gyms.html.md" />
         <option value="$PROJECT_DIR$/src/documents/scripts/script.js.coffee" />
         <option value="$PROJECT_DIR$/src/documents/pages/coach.html.md" />
-        <option value="$PROJECT_DIR$/docpad.coffee" />
         <option value="$PROJECT_DIR$/src/documents/styles/style.css.styl" />
-        <option value="$PROJECT_DIR$/src/layouts/default.html.eco" />
         <option value="$PROJECT_DIR$/src/documents/pages/gyms.html.jade" />
         <option value="$PROJECT_DIR$/src/documents/index.html" />
+        <option value="$PROJECT_DIR$/src/layouts/default.html.eco" />
+        <option value="$PROJECT_DIR$/docpad.coffee" />
       </list>
     </option>
   </component>
@@ -819,19 +821,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docpad.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="12" selection-start="1229" selection-end="1235" vertical-scroll-proportion="-15.76">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/layouts/default.html.eco">
       <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
         <state />
       </provider>
       <provider editor-type-id="text-editor">
         <state line="51" column="92" selection-start="2111" selection-end="2111" vertical-scroll-proportion="-7.7777777">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docpad.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="39" selection-start="1865" selection-end="1865" vertical-scroll-proportion="0.33333334">
           <folding />
         </state>
       </provider>

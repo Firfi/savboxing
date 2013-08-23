@@ -58,7 +58,7 @@ docpadConfig = {
       ]
 
       services:
-        googleAnalytics: 'googleAnalytics-id'
+        googleAnalytics: 'UA-43429259-1'
 
 
 
