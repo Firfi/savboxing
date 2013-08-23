@@ -31,7 +31,7 @@
 
     <!-- Facebook Image Code -->
     <meta property="og:image" content="/images/box1L.jpg" />
-    <link rel="image_src" href="/images/box1L.jpg" />
+    <link rel="image_src" href="<%= @site.url %>/images/box1L.jpg" />
 
 	<!-- Shims: IE6-8 support of HTML5 elements -->
 	<!--[if lt IE 9]>
