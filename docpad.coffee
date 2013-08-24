@@ -42,18 +42,15 @@ docpadConfig = {
 
       # Styles
       styles: [
-        "/styles/twitter-bootstrap.css"
-        "/styles/style.css"
-        "/vendor/fancybox/jquery.fancybox.css"
-        "/vendor/font-awesome/css/font-awesome.min.css"
+        "/built.min.css"
+        "/vendor/font-awesome/css/font-awesome.css" # don't minify awesome
       ]
 
       # Scripts
       scripts: [
         "//cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js"
         "//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"
-        "/scripts/script.js"
-        "/vendor/fancybox/jquery.fancybox.pack.js"
+        "/built.min.js"
       ]
 
       services:
@@ -120,6 +117,11 @@ docpadConfig = {
           tarExtractClean: true
         }
       ]
+    sitemap:
+      cachetime: 600000
+      changefreq: 'monthly'
+      priority: 0.5
+      sitemap: false
 
 
 
@@ -150,6 +152,28 @@ docpadConfig = {
           res.redirect(newUrl+req.url, 301)
         else
           next()
+
+    writeAfter: (opts,next) ->
+      # Prepare
+      safeps = require('safeps')
+      pathUtil = require('path')
+      docpad = @docpad
+      rootPath = docpad.config.rootPath
+      gruntPath = pathUtil.join(rootPath, 'node_modules', '.bin', 'grunt')
+
+      # Perform the grunt `min` task
+      # https://github.com/gruntjs/grunt/blob/0.3-stable/docs/task_min.md
+      command = [gruntPath, 'uglify']
+
+      # Execute
+      safeps.spawn(command, {cwd:rootPath,output:true}, next)
+
+      command = [gruntPath, 'cssmin']
+      safeps.spawn(command, {cwd:rootPath,output:true}, next)
+
+      # Chain
+      @
+
   watchOptions: preferredMethods: ['watchFile','watch']
 }
 
