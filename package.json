@@ -42,7 +42,7 @@
     "docpad-plugin-text": "~2.3.0",
     "docpad-plugin-jade": "~2.5.0",
     "docpad-plugin-thumbnails": "~2.1.0",
-    "docpad-plugin-services": "~2.2.6",
+    "docpad-plugin-services": "git://github.com/Firfi/docpad-plugin-services.git",
     "docpad-plugin-sitemap": "git://github.com/Firfi/docpad-plugin-sitemap.git",
     "safeps": "~2.2.6",
     "grunt": "~0.4.1",

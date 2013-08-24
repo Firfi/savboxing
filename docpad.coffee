@@ -56,7 +56,10 @@ docpadConfig = {
 
       services:
         googleAnalytics: 'UA-43429259-1'
-
+        facebookLikeButton:
+          applicationId: '148228202051189'
+        vkLikeButton:
+          applicationId: '3839130'
 
 
 
