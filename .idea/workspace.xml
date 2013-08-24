@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eeb3fd06-0f55-484a-97d2-7efefc52b566" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/layouts/default.html.eco" afterPath="$PROJECT_DIR$/src/layouts/default.html.eco" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/documents/styles/style.css.styl" afterPath="$PROJECT_DIR$/src/documents/styles/style.css.styl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docpad.coffee" afterPath="$PROJECT_DIR$/docpad.coffee" />
     </list>
     <ignored path="boxclub2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -16,7 +15,7 @@
     <file path="/gyms.html.jade" changelist="eeb3fd06-0f55-484a-97d2-7efefc52b566" time="1377302299599" ignored="false" />
     <file path="/style.css.styl" changelist="eeb3fd06-0f55-484a-97d2-7efefc52b566" time="1377328613252" ignored="false" />
     <file path="/script.js.coffee" changelist="eeb3fd06-0f55-484a-97d2-7efefc52b566" time="1376865791604" ignored="false" />
-    <file path="/docpad.coffee" changelist="eeb3fd06-0f55-484a-97d2-7efefc52b566" time="1377310552037" ignored="false" />
+    <file path="/docpad.coffee" changelist="eeb3fd06-0f55-484a-97d2-7efefc52b566" time="1377329371955" ignored="false" />
     <file path="/a.dummy" changelist="eeb3fd06-0f55-484a-97d2-7efefc52b566" time="1377250843976" ignored="false" />
     <file path="$PROJECT_DIR$/../../../angular/topico-content-editors/topico-content-editors-f5dd/app/views/main.html" changelist="eeb3fd06-0f55-484a-97d2-7efefc52b566" time="1377284736605" ignored="false" />
     <file path="/main.html" changelist="eeb3fd06-0f55-484a-97d2-7efefc52b566" time="1377284735583" ignored="false" />
@@ -115,10 +114,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="docpad.coffee" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="docpad.coffee" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docpad.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="33" selection-start="1886" selection-end="1886" vertical-scroll-proportion="-7.36">
+            <state line="18" column="32" selection-start="602" selection-end="602" vertical-scroll-proportion="0.5992908">
               <folding />
             </state>
           </provider>
@@ -160,10 +159,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css.styl" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="style.css.styl" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/documents/styles/style.css.styl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="21" selection-start="457" selection-end="457" vertical-scroll-proportion="0.90625">
+            <state line="36" column="21" selection-start="457" selection-end="457" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -220,9 +219,9 @@
         <option value="$PROJECT_DIR$/Gruntfile.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/documents/index.html" />
-        <option value="$PROJECT_DIR$/docpad.coffee" />
         <option value="$PROJECT_DIR$/src/layouts/default.html.eco" />
         <option value="$PROJECT_DIR$/src/documents/styles/style.css.styl" />
+        <option value="$PROJECT_DIR$/docpad.coffee" />
       </list>
     </option>
   </component>
@@ -705,13 +704,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docpad.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="33" selection-start="1886" selection-end="1886" vertical-scroll-proportion="-7.36">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/documents/scripts/script.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -731,7 +723,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/documents/styles/style.css.styl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="21" selection-start="457" selection-end="457" vertical-scroll-proportion="0.90625">
+        <state line="36" column="21" selection-start="457" selection-end="457" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docpad.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="32" selection-start="602" selection-end="602" vertical-scroll-proportion="0.5992908">
           <folding />
         </state>
       </provider>
