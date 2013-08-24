@@ -62,11 +62,13 @@
 		<section id="content" class="content">
 			<%- @content %>
 		</section>
-		<footer class="pull-right">
-			<p>&copy; firfi.com <%- (new Date()).getFullYear() %></p>
-            <%- @getVkLikeButton() %>
-            <%- @getFacebookLikeButton() %>
-            <%- @getGooglePlusOneButton() %>
+		<footer>
+            <div>
+                <%- @getVkLikeButton() %>
+                <%- @getGooglePlusOneButton() %>
+                <%- @getFacebookLikeButton() %>
+            </div>
+            <p class="copyright">&copy; firfi.com <%- (new Date()).getFullYear() %></p>
 		</footer>
 	</div><!-- /container -->
 
