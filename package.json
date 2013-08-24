@@ -45,14 +45,14 @@
     "docpad-plugin-services": "~2.2.6",
     "docpad-plugin-sitemap": "git://github.com/Firfi/docpad-plugin-sitemap.git",
     "safeps": "~2.2.6",
-    "grunt": "~0.4.1"
-  },
-  "devDependencies": {
+    "grunt": "~0.4.1",
     "docpad-plugin-livereload": "~2.5.2",
     "grunt-contrib-cssmin": "~0.6.1",
     "grunt-contrib-uglify": "~0.2.2",
-    "grunt": "~0.4.1",
     "grunt-cli": "~0.1.9"
+  },
+  "devDependencies": {
+
   },
   "main": "node_modules/docpad/bin/docpad-server",
   "scripts": {

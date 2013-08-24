@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eeb3fd06-0f55-484a-97d2-7efefc52b566" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gruntfile.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/documents/posts/bye.html.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/documents/posts/hello.html.md" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docpad.coffee" afterPath="$PROJECT_DIR$/docpad.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/documents/pages/gyms.html.jade" afterPath="$PROJECT_DIR$/src/documents/pages/gyms.html.jade" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/documents/index.html" afterPath="$PROJECT_DIR$/src/documents/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="boxclub2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -119,10 +112,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="docpad.coffee" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="docpad.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docpad.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="9" selection-start="1389" selection-end="1389" vertical-scroll-proportion="0.26595744">
+            <state line="45" column="9" selection-start="1389" selection-end="1389" vertical-scroll-proportion="-3.0">
               <folding />
             </state>
           </provider>
@@ -146,10 +139,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="package.json" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="52" selection-start="1831" selection-end="1831" vertical-scroll-proportion="-5.877551">
+            <state line="51" column="0" selection-start="1700" selection-end="1700" vertical-scroll-proportion="0.6511628">
               <folding />
             </state>
           </provider>
@@ -197,11 +190,11 @@
         <option value="$PROJECT_DIR$/src/documents/pages/coach.html.md" />
         <option value="$PROJECT_DIR$/src/documents/styles/style.css.styl" />
         <option value="$PROJECT_DIR$/src/layouts/default.html.eco" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/documents/pages/gyms.html.jade" />
         <option value="$PROJECT_DIR$/src/documents/index.html" />
         <option value="$PROJECT_DIR$/Gruntfile.js" />
         <option value="$PROJECT_DIR$/docpad.coffee" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -679,13 +672,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="52" selection-start="1831" selection-end="1831" vertical-scroll-proportion="-5.877551">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/documents/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="28" selection-start="547" selection-end="547" vertical-scroll-proportion="-2.9387755">
@@ -702,7 +688,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docpad.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="9" selection-start="1389" selection-end="1389" vertical-scroll-proportion="0.26595744">
+        <state line="45" column="9" selection-start="1389" selection-end="1389" vertical-scroll-proportion="-3.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="0" selection-start="1700" selection-end="1700" vertical-scroll-proportion="0.6511628">
           <folding />
         </state>
       </provider>
