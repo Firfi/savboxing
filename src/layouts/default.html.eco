@@ -65,8 +65,8 @@
 		<footer>
             <div>
                 <%- @getVkLikeButton() %>
-                <%- @getGooglePlusOneButton() %>
-                <%- @getFacebookLikeButton() %>
+                <%- @getGooglePlusOneButton(@site.url) %>
+                <%- @getFacebookLikeButton(@site.url) %>
             </div>
             <p class="copyright">&copy; firfi.com <%- (new Date()).getFullYear() %></p>
 		</footer>
